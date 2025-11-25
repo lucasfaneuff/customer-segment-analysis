@@ -16,10 +16,6 @@ The company had uniform treatment of the customer base leading to:
 
 The projects solves this through identification of customer segments and further recommended actions for each group
 
-## 📂 Project Structure
-
-<img width="486" height="399" alt="Screenshot 2025-11-22 064243" src="https://github.com/user-attachments/assets/ecaeedcd-d0fd-44e6-a918-43f7e69cce96" />
-
 ## 🔧 Tools & Technologies
 - SQL (PostgreSQL)
 - Power BI (Interactive dashboard)
@@ -70,6 +66,9 @@ Created conditional columns for income segment and suggested action
 - At Risk customers generate 15.3% of total revenue
 - Big Spenders Est. Spenders average 1.6k monetary per customer
 - R scores of 1 total 19.8% of revenue
+- Lost segment group has $173k total revenue
+- Low-income group (20k-50k) average frequency of 7.12
+- Hight-income groups (50k+) bring in 87% of revenue at only 51% of customers
 
 ## 🎯 Recommendations
 Each segment includes tailored strategies such as:
